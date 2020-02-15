@@ -16,5 +16,7 @@
     "url": "https://github.com/DevRafaelCena/aula/issues"
   },
   "homepage": "https://github.com/DevRafaelCena/aula#readme",
-  "dependencies": {}
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
